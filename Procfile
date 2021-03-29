@@ -1,1 +1,1 @@
-web: gunicorn albumy:app
+web: gunicorn albumy
